@@ -1,0 +1,65 @@
+body{
+    background-image:url(images/Fundo.png);
+    background-size:cover;
+    color: black;
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+}
+
+h1{
+    border-image: url(images/logo-01.png);
+    font-size: 100px;
+    padding-top: 280px;
+}
+
+p{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    opacity:0.8;
+}
+
+span{
+    color: white;
+}
+
+ul{
+    list-style: none;
+    margin-top: 50px;
+}
+
+li{
+    display: inline
+}
+
+ul li a {
+
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 5px;
+    color: black;
+}
+
+ul li a:hove
+{
+    opacity: 0.7;
+}
+
+.segundo-paragrafo
+{
+    margin-bottom:60px
+}
+
+.botao
+{
+    text-decoration: none;
+    background-color: black;
+    padding:10px 15px;
+    color: white;
+}
+
+.botao:hover{
+opacity:0.7;
+}
+
